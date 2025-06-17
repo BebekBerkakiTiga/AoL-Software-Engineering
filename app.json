@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Mathzizz",
+    "slug": "Mathzizz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./App/Assets/Logo/LogoMathzizzMax.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./App/Assets/Logo/LogoMathzizzMax.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./App/Assets/Logo/LogoMathzizz.png",
+        "backgroundColor": "#4318D1"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.kephen.Mathzizz"
+    },
+    "web": {
+      "favicon": "./App/Assets/Logo/LogoMathzizzMax.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "47b92f1b-a628-4b55-955e-77dda91e9a86"
+      }
+    }
+  }
+}
